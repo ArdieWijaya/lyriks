@@ -2,7 +2,7 @@
 
 Develop an elegant React.js Music Application. 
 
-Courtesy of JavaScript Mastery
+Courtesy of JavaScript Mastery.
 
 # Contributing
 
